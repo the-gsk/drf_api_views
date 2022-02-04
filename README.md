@@ -9,6 +9,10 @@
 
 ![Screenshot][image]
 
+**Below**: _Flow Chart of Generic Api View_
+
+![genericview][image1]
+
 ---
 
 # Requirements
@@ -38,4 +42,5 @@ That's it, we're done!
 You can now open the API in your browser at `http://127.0.0.1:8000/`.
 
 [image]: https://xp.io/storage/16T7uvf1.png
+[image1]: https://xp.io/storage/18iM1xZP.png
 [1st]: https://github.com/gauravshankarkumar/drf_api_views/commit/39dcacb53e74f7430d6bc2967b0622e098b263b3
